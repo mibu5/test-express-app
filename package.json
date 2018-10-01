@@ -1,0 +1,22 @@
+{
+  "name": "test-express-app",
+  "version": "1.0.0",
+  "description": "express app to test deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mibu5/test-express-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mibu5/test-express-app/issues"
+  },
+  "homepage": "https://github.com/mibu5/test-express-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
